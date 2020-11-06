@@ -1,0 +1,6 @@
+require 'capybara/cucumber'
+require 'rspec'
+require 'selenium-webdriver'
+require 'httparty'
+require 'httparty/request'
+require 'httparty/response/headers'
